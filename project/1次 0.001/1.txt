@@ -1,0 +1,736 @@
+ROC AUC: 0.9898695033284441
+Epoch 159/300
+Training Loss: 0.1887                                                                                                                                                                                                                             
+Test Accuracy: 89.84326982175784%
+Test Loss: 0.4831460636323028
+ROC AUC: 0.9901594467358832
+Epoch 160/300
+Training Loss: 0.1841                                                                                                                                                                                                                             
+Test Accuracy: 89.79717271051014%
+Test Loss: 0.530395235360741
+ROC AUC: 0.9895400896384114
+Epoch 161/300
+Training Loss: 0.1878                                                                                                                                                                                                                             
+Test Accuracy: 89.00968039336202%
+Test Loss: 0.5041800003241481
+ROC AUC: 0.9888780023089
+Epoch 162/300
+Training Loss: 0.1863                                                                                                                                                                                                                             
+Test Accuracy: 89.85863552550707%
+Test Loss: 0.4733164693745849
+ROC AUC: 0.9897613062128782
+Epoch 163/300
+Training Loss: 0.1826                                                                                                                                                                                                                             
+Test Accuracy: 89.78180700676091%
+Test Loss: 0.5348839182522891
+ROC AUC: 0.9899260678267268
+Epoch 164/300
+Training Loss: 0.1870                                                                                                                                                                                                                             
+Test Accuracy: 89.68961278426552%
+Test Loss: 0.4961661758673175
+ROC AUC: 0.9895356622617127
+Epoch 165/300
+Training Loss: 0.1829                                                                                                                                                                                                                             
+Test Accuracy: 89.16717885679164%
+Test Loss: 0.5169723093776043
+ROC AUC: 0.9889968774219924
+Epoch 166/300
+Training Loss: 0.1871                                                                                                                                                                                                                             
+Test Accuracy: 89.69345421020283%
+Test Loss: 0.5323312026827215
+ROC AUC: 0.9895311340930834
+Epoch 167/300
+Training Loss: 0.1842                                                                                                                                                                                                                             
+Test Accuracy: 89.2440073755378%
+Test Loss: 0.498029061159572
+ROC AUC: 0.9889043378476868
+Epoch 168/300
+Training Loss: 0.1870                                                                                                                                                                                                                             
+Test Accuracy: 89.78564843269822%
+Test Loss: 0.5039262045536466
+ROC AUC: 0.9895599666197237
+Epoch 169/300
+Training Loss: 0.1802                                                                                                                                                                                                                             
+Test Accuracy: 90.09680393362017%
+Test Loss: 0.5108896754170332
+ROC AUC: 0.9898321150995535
+Epoch 170/300
+Training Loss: 0.1839                                                                                                                                                                                                                             
+Test Accuracy: 89.21327596803934%
+Test Loss: 0.4767907043620702
+ROC AUC: 0.9892311790977477
+Epoch 171/300
+Training Loss: 0.1849                                                                                                                                                                                                                             
+Test Accuracy: 89.39766441303011%
+Test Loss: 0.4822538612458155
+ROC AUC: 0.9889871591341144
+Epoch 172/300
+Training Loss: 0.1915                                                                                                                                                                                                                             
+Test Accuracy: 89.75491702519976%
+Test Loss: 0.5181155647899875
+ROC AUC: 0.9897014034532035
+Epoch 173/300
+Training Loss: 0.1843                                                                                                                                                                                                                             
+Test Accuracy: 89.90857406269207%
+Test Loss: 0.49193525453102394
+ROC AUC: 0.9902441472601241
+Epoch 174/300
+Training Loss: 0.1808                                                                                                                                                                                                                             
+Test Accuracy: 89.63967424708052%
+Test Loss: 0.5389755341599302
+ROC AUC: 0.9898197108439823
+Epoch 175/300
+Training Loss: 0.1856                                                                                                                                                                                                                             
+Test Accuracy: 90.4540565457898%
+Test Loss: 0.4761422108571274
+ROC AUC: 0.9906660231501826
+Epoch 176/300
+Training Loss: 0.1827                                                                                                                                                                                                                             
+Test Accuracy: 89.93930547019053%
+Test Loss: 0.48339481367539566
+ROC AUC: 0.9903346667855267
+Epoch 177/300
+Training Loss: 0.1859                                                                                                                                                                                                                             
+Test Accuracy: 90.14290104486786%
+Test Loss: 0.5211648655522045
+ROC AUC: 0.9903322555746632
+Epoch 178/300
+Training Loss: 0.1795                                                                                                                                                                                                                             
+Test Accuracy: 88.95590043023971%
+Test Loss: 0.4873206369973109
+ROC AUC: 0.9890427606174829
+Epoch 179/300
+Training Loss: 0.1827                                                                                                                                                                                                                             
+Test Accuracy: 89.69729563614014%
+Test Loss: 0.5456674461404872
+ROC AUC: 0.9894620278069365
+Epoch 180/300
+Training Loss: 0.1766                                                                                                                                                                                                                             
+Test Accuracy: 88.93669330055316%
+Test Loss: 0.49879853127339707
+ROC AUC: 0.9887152958382396
+Epoch 181/300
+Training Loss: 0.1865                                                                                                                                                                                                                             
+Test Accuracy: 90.09680393362017%
+Test Loss: 0.47316927182655255
+ROC AUC: 0.9905065860499077
+Epoch 182/300
+Training Loss: 0.1846                                                                                                                                                                                                                             
+Test Accuracy: 88.96358328211431%
+Test Loss: 0.49792255328272106
+ROC AUC: 0.9884486280127543
+Epoch 183/300
+Training Loss: 0.1868                                                                                                                                                                                                                             
+Test Accuracy: 90.3080823601721%
+Test Loss: 0.49083814287973127
+ROC AUC: 0.9900713203077288
+Epoch 184/300
+Training Loss: 0.1834                                                                                                                                                                                                                             
+Test Accuracy: 89.45528580208973%
+Test Loss: 0.5024012016121983
+ROC AUC: 0.9893218225648829
+Epoch 185/300
+Training Loss: 0.1841                                                                                                                                                                                                                             
+Test Accuracy: 90.18899815611555%
+Test Loss: 0.4730083488418937
+ROC AUC: 0.9905864864880058
+Epoch 186/300
+Training Loss: 0.1827                                                                                                                                                                                                                             
+Test Accuracy: 90.48478795328826%
+Test Loss: 0.4892549689730277
+ROC AUC: 0.9904782006359409
+Epoch 187/300
+Training Loss: 0.1819                                                                                                                                                                                                                             
+Test Accuracy: 89.82022126613398%
+Test Loss: 0.48748052344269327
+ROC AUC: 0.9903966380235968
+Epoch 188/300
+Training Loss: 0.1802                                                                                                                                                                                                                             
+Test Accuracy: 89.6819299323909%
+Test Loss: 0.5274485045134348
+ROC AUC: 0.9895443077175496
+Epoch 189/300
+Training Loss: 0.1795                                                                                                                                                                                                                             
+Test Accuracy: 90.22357098955132%
+Test Loss: 0.5052484817947726
+ROC AUC: 0.9903414184539259
+Epoch 190/300
+Training Loss: 0.1754                                                                                                                                                                                                                             
+Test Accuracy: 89.7241856177013%
+Test Loss: 0.5516956351101177
+ROC AUC: 0.9892514973277299
+Epoch 191/300
+Training Loss: 0.1816                                                                                                                                                                                                                             
+Test Accuracy: 89.3438844499078%
+Test Loss: 0.49429543019883104
+ROC AUC: 0.9891110428764796
+Epoch 192/300
+Training Loss: 0.1802                                                                                                                                                                                                                             
+Test Accuracy: 89.40150583896742%
+Test Loss: 0.45482202087168455
+ROC AUC: 0.9897591065676968
+Epoch 193/300
+Training Loss: 0.1741                                                                                                                                                                                                                             
+Test Accuracy: 89.73955132145052%
+Test Loss: 0.5258743124298167
+ROC AUC: 0.9893109575936357
+Epoch 194/300
+Training Loss: 0.1819
+Test Accuracy: 89.63583282114321%
+Test Loss: 0.48967809675487134
+ROC AUC: 0.9897756452429007
+Epoch 195/300
+Training Loss: 0.1808                                                                                                                                                                                                                             
+Test Accuracy: 89.42455439459127%
+Test Loss: 0.49066040333181266
+ROC AUC: 0.989585942088339
+Epoch 196/300
+Training Loss: 0.1783                                                                                                                                                                                                                             
+Test Accuracy: 89.68961278426552%
+Test Loss: 0.4953871879775268
+ROC AUC: 0.9895421147573158
+Epoch 197/300
+Training Loss: 0.1791                                                                                                                                                                                                                             
+Test Accuracy: 89.66272280270437%
+Test Loss: 0.5282885151800832
+ROC AUC: 0.9891601946887855
+Epoch 198/300
+Training Loss: 0.1788                                                                                                                                                                                                                             
+Test Accuracy: 89.84326982175784%
+Test Loss: 0.5424507486668825
+ROC AUC: 0.9893333481517619
+Epoch 199/300
+Training Loss: 0.1764                                                                                                                                                                                                                             
+Test Accuracy: 90.59234787953288%
+Test Loss: 0.527557530619638
+ROC AUC: 0.9904804786990511
+Epoch 200/300
+Training Loss: 0.1788                                                                                                                                                                                                                             
+Test Accuracy: 89.14413030116779%
+Test Loss: 0.5217802339592874
+ROC AUC: 0.9888386924069821
+Epoch 201/300
+Training Loss: 0.1839                                                                                                                                                                                                                             
+Test Accuracy: 89.60510141364475%
+Test Loss: 0.5117481083829084
+ROC AUC: 0.9891045681561119
+Epoch 202/300
+Training Loss: 0.1814                                                                                                                                                                                                                             
+Test Accuracy: 89.91625691456669%
+Test Loss: 0.5405098162393022
+ROC AUC: 0.9900001579716688
+Epoch 203/300
+Training Loss: 0.1809                                                                                                                                                                                                                             
+Test Accuracy: 89.85095267363245%
+Test Loss: 0.49296390509991567
+ROC AUC: 0.9899250066999139
+Epoch 204/300
+Training Loss: 0.1766                                                                                                                                                                                                                             
+Test Accuracy: 89.32851874615858%
+Test Loss: 0.5166619022740128
+ROC AUC: 0.9889014210166838
+Epoch 205/300
+Training Loss: 0.1758                                                                                                                                                                                                                             
+Test Accuracy: 89.79717271051014%
+Test Loss: 0.5094376995611384
+ROC AUC: 0.9896108446703845
+Epoch 206/300
+Training Loss: 0.1797                                                                                                                                                                                                                             
+Test Accuracy: 89.90089121081745%
+Test Loss: 0.5401602028128265
+ROC AUC: 0.9894230982158623
+Epoch 207/300
+Training Loss: 0.1782                                                                                                                                                                                                                             
+Test Accuracy: 89.3400430239705%
+Test Loss: 0.5307307249145663
+ROC AUC: 0.9887786922415032
+Epoch 208/300
+Training Loss: 0.1800                                                                                                                                                                                                                             
+Test Accuracy: 90.20052243392747%
+Test Loss: 0.5554429367740186
+ROC AUC: 0.9897579984665331
+Epoch 209/300
+Training Loss: 0.1818                                                                                                                                                                                                                             
+Test Accuracy: 89.95851259987707%
+Test Loss: 0.5038805130605315
+ROC AUC: 0.990035349320325
+Epoch 210/300
+Training Loss: 0.1798                                                                                                                                                                                                                             
+Test Accuracy: 90.21972956361401%
+Test Loss: 0.4929659801943225
+ROC AUC: 0.9901682467197018
+Epoch 211/300
+Training Loss: 0.1805                                                                                                                                                                                                                             
+Test Accuracy: 89.62046711739397%
+Test Loss: 0.5023397667620546
+ROC AUC: 0.9897441016293879
+Epoch 212/300
+Training Loss: 0.1740                                                                                                                                                                                                                             
+Test Accuracy: 89.83942839582053%
+Test Loss: 0.5277679154680192
+ROC AUC: 0.9898512571519319
+Epoch 213/300
+Training Loss: 0.1785                                                                                                                                                                                                                             
+Test Accuracy: 89.77028272894898%
+Test Loss: 0.5047112254738709
+ROC AUC: 0.989440379543453
+Epoch 214/300
+Training Loss: 0.1762                                                                                                                                                                                                                             
+Test Accuracy: 89.77028272894898%
+Test Loss: 0.5231034745326395
+ROC AUC: 0.9896485261265277
+Epoch 215/300
+Training Loss: 0.1772                                                                                                                                                                                                                             
+Test Accuracy: 89.13260602335588%
+Test Loss: 0.5426484563899145
+ROC AUC: 0.9891355075301094
+Epoch 216/300
+Training Loss: 0.1788                                                                                                                                                                                                                             
+Test Accuracy: 88.79840196681008%
+Test Loss: 0.5068213734054503
+ROC AUC: 0.9884043255388628
+Epoch 217/300
+Training Loss: 0.1763                                                                                                                                                                                                                             
+Test Accuracy: 89.68577135832821%
+Test Loss: 0.5787670606151921
+ROC AUC: 0.9896411298701281
+Epoch 218/300
+Training Loss: 0.1734                                                                                                                                                                                                                             
+Test Accuracy: 89.25553165334972%
+Test Loss: 0.5259535735226925
+ROC AUC: 0.9884244949965556
+Epoch 219/300
+Training Loss: 0.1815                                                                                                                                                                                                                             
+Test Accuracy: 89.38229870928089%
+Test Loss: 0.5009629866354192
+ROC AUC: 0.9893610495470501
+Epoch 220/300
+Training Loss: 0.1821                                                                                                                                                                                                                             
+Test Accuracy: 90.42332513829133%
+Test Loss: 0.5624660833484812
+ROC AUC: 0.989937423399968
+Epoch 221/300
+Training Loss: 0.1784                                                                                                                                                                                                                             
+Test Accuracy: 89.95082974800246%
+Test Loss: 0.5242046934569766
+ROC AUC: 0.9897752176062286
+Epoch 222/300
+Training Loss: 0.1745                                                                                                                                                                                                                             
+Test Accuracy: 89.59741856177013%
+Test Loss: 0.514042144468891
+ROC AUC: 0.9889939675161733
+Epoch 223/300
+Training Loss: 0.1734                                                                                                                                                                                                                             
+Test Accuracy: 89.41687154271666%
+Test Loss: 0.5559183398081938
+ROC AUC: 0.9887222635538139
+Epoch 224/300
+Training Loss: 0.1815                                                                                                                                                                                                                             
+Test Accuracy: 88.35279655808236%
+Test Loss: 0.5770274818136907
+ROC AUC: 0.9872180839116892
+Epoch 225/300
+Training Loss: 0.1753                                                                                                                                                                                                                             
+Test Accuracy: 89.44760295021511%
+Test Loss: 0.5065897858935188
+ROC AUC: 0.9892015029484067
+Epoch 226/300
+Training Loss: 0.1767                                                                                                                                                                                                                             
+Test Accuracy: 89.88936693300553%
+Test Loss: 0.5638040371572475
+ROC AUC: 0.9899895297552967
+Epoch 227/300
+Training Loss: 0.1691                                                                                                                                                                                                                             
+Test Accuracy: 89.23632452366319%
+Test Loss: 0.5228135438537267
+ROC AUC: 0.9894552958634572
+Epoch 228/300
+Training Loss: 0.1789                                                                                                                                                                                                                             
+Test Accuracy: 89.90089121081745%
+Test Loss: 0.5185091148229855
+ROC AUC: 0.9896711564112334
+Epoch 229/300
+Training Loss: 0.1752                                                                                                                                                                                                                             
+Test Accuracy: 89.970036877689%
+Test Loss: 0.5476924988350237
+ROC AUC: 0.9895579641241131
+Epoch 230/300
+Training Loss: 0.1731                                                                                                                                                                                                                             
+Test Accuracy: 88.91748617086662%
+Test Loss: 0.5258203831401002
+ROC AUC: 0.9883271961801572
+Epoch 231/300
+Training Loss: 0.1730                                                                                                                                                                                                                             
+Test Accuracy: 89.7779655808236%
+Test Loss: 0.4741207195473076
+ROC AUC: 0.9899845020600011
+Epoch 232/300
+Training Loss: 0.1791                                                                                                                                                                                                                             
+Test Accuracy: 89.85095267363245%
+Test Loss: 0.4793292850066278
+ROC AUC: 0.9906218531967763
+Epoch 233/300
+Training Loss: 0.1774                                                                                                                                                                                                                             
+Test Accuracy: 89.62814996926859%
+Test Loss: 0.48510785679305884
+ROC AUC: 0.9898995188341511
+Epoch 234/300
+Training Loss: 0.1741                                                                                                                                                                                                                             
+Test Accuracy: 89.40150583896742%
+Test Loss: 0.5404845102836483
+ROC AUC: 0.9894627612972497
+Epoch 235/300
+Training Loss: 0.1740                                                                                                                                                                                                                             
+Test Accuracy: 89.5897357098955%
+Test Loss: 0.5130858206053889
+ROC AUC: 0.9892597376617609
+Epoch 236/300
+Training Loss: 0.1737                                                                                                                                                                                                                             
+Test Accuracy: 88.3220651505839%
+Test Loss: 0.548753722051699
+ROC AUC: 0.9871556266131781
+Epoch 237/300
+Training Loss: 0.1733                                                                                                                                                                                                                             
+Test Accuracy: 89.62814996926859%
+Test Loss: 0.5481822416692905
+ROC AUC: 0.989270812109573
+Epoch 238/300
+Training Loss: 0.1755                                                                                                                                                                                                                             
+Test Accuracy: 90.16979102642901%
+Test Loss: 0.5623475449163371
+ROC AUC: 0.9899213906787272
+Epoch 239/300
+Training Loss: 0.1716                                                                                                                                                                                                                             
+Test Accuracy: 89.95467117393977%
+Test Loss: 0.5184954112557044
+ROC AUC: 0.98971646504732
+Epoch 240/300
+Training Loss: 0.1760                                                                                                                                                                                                                             
+Test Accuracy: 90.05838967424708%
+Test Loss: 0.5266616111973691
+ROC AUC: 0.9898779836863321
+Epoch 241/300
+Training Loss: 0.1842                                                                                                                                                                                                                             
+Test Accuracy: 89.71650276582668%
+Test Loss: 0.5081620941504533
+ROC AUC: 0.9901155828150028
+Epoch 242/300
+Training Loss: 0.1737
+Test Accuracy: 88.89827904118009%
+Test Loss: 0.5264567632701713
+ROC AUC: 0.9882158937091674
+Epoch 243/300
+Training Loss: 0.1731                                                                                                                                                                                                                             
+Test Accuracy: 89.27089735709896%
+Test Loss: 0.5112836020156312
+ROC AUC: 0.9891262896540077
+Epoch 244/300
+Training Loss: 0.1734                                                                                                                                                                                                                             
+Test Accuracy: 89.5897357098955%
+Test Loss: 0.5729814870633843
+ROC AUC: 0.9891560737724732
+Epoch 245/300
+Training Loss: 0.1742                                                                                                                                                                                                                             
+Test Accuracy: 89.63583282114321%
+Test Loss: 0.5498832601900276
+ROC AUC: 0.9886443390445532
+Epoch 246/300
+Training Loss: 0.1730                                                                                                                                                                                                                             
+Test Accuracy: 89.7318684695759%
+Test Loss: 0.5206860613618313
+ROC AUC: 0.9896014736631292
+Epoch 247/300
+Training Loss: 0.1711                                                                                                                                                                                                                             
+Test Accuracy: 89.99692685925015%
+Test Loss: 0.5430905640060895
+ROC AUC: 0.9901576013069361
+Epoch 248/300
+Training Loss: 0.1775                                                                                                                                                                                                                             
+Test Accuracy: 89.870159803319%
+Test Loss: 0.5384691159800721
+ROC AUC: 0.9889221905938648
+Epoch 249/300
+Training Loss: 0.1791                                                                                                                                                                                                                             
+Test Accuracy: 89.60894283958206%
+Test Loss: 0.6048713296652145
+ROC AUC: 0.9889282750731063
+Epoch 250/300
+Training Loss: 0.1763                                                                                                                                                                                                                             
+Test Accuracy: 90.0737553779963%
+Test Loss: 0.5647128337977902
+ROC AUC: 0.9897729516077309
+Epoch 251/300
+Training Loss: 0.1739                                                                                                                                                                                                                             
+Test Accuracy: 89.48217578365089%
+Test Loss: 0.5365395040187183
+ROC AUC: 0.988773497074896
+Epoch 252/300
+Training Loss: 0.1734                                                                                                                                                                                                                             
+Test Accuracy: 88.96742470805162%
+Test Loss: 0.5221425268448597
+ROC AUC: 0.9885562582019143
+Epoch 253/300
+Training Loss: 0.1731                                                                                                                                                                                                                             
+Test Accuracy: 89.22864167178857%
+Test Loss: 0.5367911962024413
+ROC AUC: 0.9885831502600524
+Epoch 254/300
+Training Loss: 0.1777                                                                                                                                                                                                                             
+Test Accuracy: 89.20175169022741%
+Test Loss: 0.5276793167775995
+ROC AUC: 0.9885915368436035
+Epoch 255/300
+Training Loss: 0.1763                                                                                                                                                                                                                             
+Test Accuracy: 89.7779655808236%
+Test Loss: 0.5630250121491585
+ROC AUC: 0.9887736852029032
+Epoch 256/300
+Training Loss: 0.1717                                                                                                                                                                                                                             
+Test Accuracy: 88.83297480024585%
+Test Loss: 0.5322628684325352
+ROC AUC: 0.9878863685373581
+Epoch 257/300
+Training Loss: 0.1750                                                                                                                                                                                                                             
+Test Accuracy: 90.30424093423478%
+Test Loss: 0.5171270734126061
+ROC AUC: 0.9895480192186439
+Epoch 258/300
+Training Loss: 0.1734                                                                                                                                                                                                                             
+Test Accuracy: 89.70497848801475%
+Test Loss: 0.528665079420825
+ROC AUC: 0.9886609229492225
+Epoch 259/300
+Training Loss: 0.1721
+Test Accuracy: 89.60894283958206%
+Test Loss: 0.5820060083880669
+ROC AUC: 0.988312281039238
+Epoch 260/300
+Training Loss: 0.1728                                                                                                                                                                                                                             
+Test Accuracy: 89.82022126613398%
+Test Loss: 0.528362422983231
+ROC AUC: 0.9893850352357305
+Epoch 261/300
+Training Loss: 0.1714                                                                                                                                                                                                                             
+Test Accuracy: 88.34895513214505%
+Test Loss: 0.556720745745872
+ROC AUC: 0.9871107576025888
+Epoch 262/300
+Training Loss: 0.1733                                                                                                                                                                                                                             
+Test Accuracy: 90.15442532267978%
+Test Loss: 0.5047346899918507
+ROC AUC: 0.9902641334022209
+Epoch 263/300
+Training Loss: 0.1730                                                                                                                                                                                                                             
+Test Accuracy: 89.75875845113706%
+Test Loss: 0.5217647554580817
+ROC AUC: 0.9894741489822636
+Epoch 264/300
+Training Loss: 0.1759                                                                                                                                                                                                                             
+Test Accuracy: 88.81376767055932%
+Test Loss: 0.6127474524107666
+ROC AUC: 0.9876419606557159
+Epoch 265/300
+Training Loss: 0.1733                                                                                                                                                                                                                             
+Test Accuracy: 89.93546404425322%
+Test Loss: 0.5533621668102554
+ROC AUC: 0.9896847321458253
+Epoch 266/300
+Training Loss: 0.1754                                                                                                                                                                                                                             
+Test Accuracy: 90.02765826674862%
+Test Loss: 0.5468513524019136
+ROC AUC: 0.9899292160244627
+Epoch 267/300
+Training Loss: 0.1714                                                                                                                                                                                                                             
+Test Accuracy: 90.02765826674862%
+Test Loss: 0.5331063514231372
+ROC AUC: 0.9899984497607942
+Epoch 268/300
+Training Loss: 0.1760                                                                                                                                                                                                                             
+Test Accuracy: 89.0480946527351%
+Test Loss: 0.5476738932977938
+ROC AUC: 0.9883615626821634
+Epoch 269/300
+Training Loss: 0.1776                                                                                                                                                                                                                             
+Test Accuracy: 88.95974185617702%
+Test Loss: 0.7522645985030794
+ROC AUC: 0.9867572651127052
+Epoch 270/300
+Training Loss: 0.1762                                                                                                                                                                                                                             
+Test Accuracy: 88.3259065765212%
+Test Loss: 0.5637187976883274
+ROC AUC: 0.9869273120825012
+Epoch 271/300
+Training Loss: 0.1735
+Test Accuracy: 89.54748002458513%
+Test Loss: 0.6281515147695563
+ROC AUC: 0.9884936395727719
+Epoch 272/300
+Training Loss: 0.1712                                                                                                                                                                                                                             
+Test Accuracy: 89.4360786724032%
+Test Loss: 0.5218498829944729
+ROC AUC: 0.9889680653892136
+Epoch 273/300
+Training Loss: 0.1683                                                                                                                                                                                                                             
+Test Accuracy: 89.03657037492317%
+Test Loss: 0.5795353219664975
+ROC AUC: 0.9879469725354152
+Epoch 274/300
+Training Loss: 0.1737                                                                                                                                                                                                                             
+Test Accuracy: 89.32851874615858%
+Test Loss: 0.5298006780921379
+ROC AUC: 0.9889718951155821
+Epoch 275/300
+Training Loss: 0.1730                                                                                                                                                                                                                             
+Test Accuracy: 89.52443146896128%
+Test Loss: 0.5256417286579451
+ROC AUC: 0.9894141226065765
+Epoch 276/300
+Training Loss: 0.1788                                                                                                                                                                                                                             
+Test Accuracy: 89.41687154271666%
+Test Loss: 0.5391165279761391
+ROC AUC: 0.989631808059235
+Epoch 277/300
+Training Loss: 0.1688                                                                                                                                                                                                                             
+Test Accuracy: 89.41303011677935%
+Test Loss: 0.594370028834625
+ROC AUC: 0.9888154044603154
+Epoch 278/300
+Training Loss: 0.1746                                                                                                                                                                                                                             
+Test Accuracy: 89.35156730178242%
+Test Loss: 0.5633305260390031
+ROC AUC: 0.9884826445025381
+Epoch 279/300
+Training Loss: 0.1694                                                                                                                                                                                                                             
+Test Accuracy: 89.69345421020283%
+Test Loss: 0.5778686638551895
+ROC AUC: 0.9886721918751615
+Epoch 280/300
+Training Loss: 0.1685                                                                                                                                                                                                                             
+Test Accuracy: 90.09296250768286%
+Test Loss: 0.5739553558876854
+ROC AUC: 0.9899112356513209
+Epoch 281/300
+Training Loss: 0.1686                                                                                                                                                                                                                             
+Test Accuracy: 89.34772587584511%
+Test Loss: 0.5392564843223249
+ROC AUC: 0.9889663479234907
+Epoch 282/300
+Training Loss: 0.2032                                                                                                                                                                                                                             
+Test Accuracy: 89.35156730178242%
+Test Loss: 0.5928182058417298
+ROC AUC: 0.9886782634870531
+Epoch 283/300
+Training Loss: 0.1699                                                                                                                                                                                                                             
+Test Accuracy: 90.08143822987093%
+Test Loss: 0.5742744753231355
+ROC AUC: 0.9900038194042494
+Epoch 284/300
+Training Loss: 0.1755                                                                                                                                                                                                                             
+Test Accuracy: 89.81253841425938%
+Test Loss: 0.5201628282570592
+ROC AUC: 0.9899285543217843
+Epoch 285/300
+Training Loss: 0.1698                                                                                                                                                                                                                             
+Test Accuracy: 89.81637984019667%
+Test Loss: 0.5710160643255372
+ROC AUC: 0.9896167571922394
+Epoch 286/300
+Training Loss: 0.1684                                                                                                                                                                                                                             
+Test Accuracy: 89.60510141364475%
+Test Loss: 0.5344753476979861
+ROC AUC: 0.9889205612959391
+Epoch 287/300
+Training Loss: 0.1707                                                                                                                                                                                                                             
+Test Accuracy: 89.09419176398279%
+Test Loss: 0.5615975441679684
+ROC AUC: 0.9885437185597044
+Epoch 288/300
+Training Loss: 0.1719                                                                                                                                                                                                                             
+Test Accuracy: 89.70497848801475%
+Test Loss: 0.5541602257501852
+ROC AUC: 0.9889100687807403
+Epoch 289/300
+Training Loss: 0.1704                                                                                                                                                                                                                             
+Test Accuracy: 90.28119237861094%
+Test Loss: 0.5225165682499954
+ROC AUC: 0.9897295008595994
+Epoch 290/300
+Training Loss: 0.1732                                                                                                                                                                                                                             
+Test Accuracy: 89.98924400737553%
+Test Loss: 0.5782649653019181
+ROC AUC: 0.9890093220410983
+Epoch 291/300
+Training Loss: 0.1777                                                                                                                                                                                                                             
+Test Accuracy: 89.65503995082975%
+Test Loss: 0.5813092965528152
+ROC AUC: 0.9889225862532051
+Epoch 292/300
+Training Loss: 0.1774
+Test Accuracy: 89.69729563614014%
+Test Loss: 0.5609136019507115
+ROC AUC: 0.9889728420338864
+Epoch 293/300
+Training:  78%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                      Training:  78%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                     
+Training:  79%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                    
+Training:  79%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                   
+Training:  80%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                  
+Training:  80%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                 
+Training:  81%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                
+Training:  81%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                               
+Training:  82%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                              
+Training:  83%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                            
+Training:  83%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                           
+Training:  84%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                          
+Training:  84%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                         
+Training:  85%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                        
+Training:  86%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                       
+Training:  86%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                     
+Training:  87%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                    
+Training:  88%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                   
+Training:  88%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                  
+Training:  89%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                
+Training:  90%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌               
+Training:  90%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊              
+Training:  91%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████             
+Training:  92%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎           
+Training:  92%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌          
+Training:  93%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊         
+Training:  94%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████        Training:  94%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎      Training:  95%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌     Training:  96%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋    Training:  96%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉   Training:  97%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉  Training: Training:  99%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████Training: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                                                        Training Loss: 0.1748
+Test Accuracy: 89.34772587584511%
+Test Loss: 0.5617262629398504
+ROC AUC: 0.9888121802277764
+Epoch 294/300
+Training Loss: 0.1718
+Test Accuracy: 89.58589428395821%
+Test Loss: 0.514233724681078
+ROC AUC: 0.9891831598744952
+Epoch 295/300
+Training Loss: 0.1750                                                                                                                                                                                                                             
+Test Accuracy: 89.29778733866011%
+Test Loss: 0.5677927302767282
+ROC AUC: 0.9888010987637015
+Epoch 296/300
+Training Loss: 0.1734                                                                                                                                                                                                                             
+Test Accuracy: 89.49370006146282%
+Test Loss: 0.5285466593990485
+ROC AUC: 0.9882458272404172
+Epoch 297/300
+Training Loss: 0.1729                                                                                                                                                                                                                             
+Test Accuracy: 90.25046097111247%
+Test Loss: 0.559052430724018
+ROC AUC: 0.9899923755303879
+Epoch 298/300
+Training Loss: 0.1700                                                                                                                                                                                                                             
+Test Accuracy: 89.10955746773202%
+Test Loss: 0.5605531433991701
+ROC AUC: 0.987778821666614
+Epoch 299/300
+Training Loss: 0.1707
+Test Accuracy: 90.19668100799016%
+Test Loss: 0.5102309943118667
+ROC AUC: 0.9904132975929141
+Epoch 300/300
+Training Loss: 0.1751
+Test Accuracy: 90.32344806392133%
+Test Loss: 0.5494651872113262
+ROC AUC: 0.9898984691697356
